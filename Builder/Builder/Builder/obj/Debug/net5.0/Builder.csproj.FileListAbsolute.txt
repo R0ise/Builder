@@ -1,0 +1,16 @@
+F:\Учеба\Visual code C#\Patterns\patterns\Builder\Builder\Builder\bin\Debug\net5.0\Builder.exe
+F:\Учеба\Visual code C#\Patterns\patterns\Builder\Builder\Builder\bin\Debug\net5.0\Builder.deps.json
+F:\Учеба\Visual code C#\Patterns\patterns\Builder\Builder\Builder\bin\Debug\net5.0\Builder.runtimeconfig.json
+F:\Учеба\Visual code C#\Patterns\patterns\Builder\Builder\Builder\bin\Debug\net5.0\Builder.runtimeconfig.dev.json
+F:\Учеба\Visual code C#\Patterns\patterns\Builder\Builder\Builder\bin\Debug\net5.0\Builder.dll
+F:\Учеба\Visual code C#\Patterns\patterns\Builder\Builder\Builder\bin\Debug\net5.0\ref\Builder.dll
+F:\Учеба\Visual code C#\Patterns\patterns\Builder\Builder\Builder\bin\Debug\net5.0\Builder.pdb
+F:\Учеба\Visual code C#\Patterns\patterns\Builder\Builder\Builder\obj\Debug\net5.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+F:\Учеба\Visual code C#\Patterns\patterns\Builder\Builder\Builder\obj\Debug\net5.0\Builder.AssemblyInfoInputs.cache
+F:\Учеба\Visual code C#\Patterns\patterns\Builder\Builder\Builder\obj\Debug\net5.0\Builder.AssemblyInfo.cs
+F:\Учеба\Visual code C#\Patterns\patterns\Builder\Builder\Builder\obj\Debug\net5.0\Builder.csproj.CoreCompileInputs.cache
+F:\Учеба\Visual code C#\Patterns\patterns\Builder\Builder\Builder\obj\Debug\net5.0\Builder.dll
+F:\Учеба\Visual code C#\Patterns\patterns\Builder\Builder\Builder\obj\Debug\net5.0\ref\Builder.dll
+F:\Учеба\Visual code C#\Patterns\patterns\Builder\Builder\Builder\obj\Debug\net5.0\Builder.pdb
+F:\Учеба\Visual code C#\Patterns\patterns\Builder\Builder\Builder\obj\Debug\net5.0\Builder.genruntimeconfig.cache
+F:\Учеба\Visual code C#\Patterns\patterns\Builder\Builder\Builder\obj\Debug\net5.0\Builder.csproj.AssemblyReference.cache
